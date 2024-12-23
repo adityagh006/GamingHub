@@ -62,10 +62,10 @@ g++ -o gamingHub main.cpp
 ## Usage
 1. Launch the application
 2. Select a game option from the menu:
-- Enter 1 for Rock Paper Scissors
-- Enter 2 for Snake Game
-- Enter 3 for Tic Tac Toe
-- Enter 4 to view previous game scores
+  - Enter 1 for Rock Paper Scissors
+  - Enter 2 for Snake Game
+  - Enter 3 for Tic Tac Toe
+  - Enter 4 to view previous game scores
 
 
 ## Score Tracking
